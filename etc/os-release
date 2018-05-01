@@ -1,0 +1,9 @@
+PRETTY_NAME="Foxxy #OSNAME# 4.0-beta"
+NAME="Foxxy #OSNAME#"
+ID=foxxy
+ID_LIKE=debian
+VERSION="4.0-beta"
+VERSION_ID="4.0-beta"
+HOME_URL="https://www.foxxysec.org/"
+SUPPORT_URL="https://community.foxxysec.org/"
+BUG_REPORT_URL="https://dev.foxxysec.org/"
